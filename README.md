@@ -2,7 +2,7 @@
 website where you can find and download every project from myself for free
 
 # Check it out
-You can check it out here: https://itssnee.github.io/website/index.html
+You can check it out here:  https://itssnee.github.io/download-website/
 Contact information and services, etc. can be found there :)
 
 # Important
